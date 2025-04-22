@@ -6,6 +6,8 @@ ubuntu_chatbot
 
 ![Swagger output-3](swagger_3.png)
 
+![Swagger output-4](swagger_5.png)
+
 ![Swagger output-4](swagger_4.png)
 
 ![using docker at local system](using_docker_local.png)
